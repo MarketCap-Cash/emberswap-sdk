@@ -34,7 +34,7 @@ var _SOLIDITY_TYPE_MAXIMA;
   Rounding[Rounding["ROUND_UP"] = 2] = "ROUND_UP";
 })(exports.Rounding || (exports.Rounding = {}));
 
-var FACTORY_ADDRESS = '0xB72c1F953cCa7a4b2c22d696AbC5d23552714c18';
+var FACTORY_ADDRESS = '0xE62983a68679834eD884B9673Fb6aF13db740fF0';
 var INIT_CODE_HASH = '0x4eae98fedf0a51d24c5a3a59dddb69e9fbeead94344889e370a14507c35f9b4a';
 var MINIMUM_LIQUIDITY = /*#__PURE__*/JSBI.BigInt(1000); // exports for internal consumption
 
